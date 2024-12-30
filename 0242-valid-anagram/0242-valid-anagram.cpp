@@ -6,11 +6,22 @@ public:
             return false;
         }
         
-        // Sort both strings
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
+        // Create frequency arrays for both strings
+        vector<int> freq(26, 0); // Assuming only lowercase letters
         
-        // Compare the sorted strings
-        return s == t;
+        // Count frequencies of characters in `s` and `t`
+        for (int i = 0; i < s.size(); ++i) {
+            freq[s[i] - 'a']++;
+            freq[t[i] - 'a']--;
+        }
+        
+        // Check if all frequencies are zero
+        for (int count : freq) {
+            if (count != 0) {
+                return false;
+            }
+        }
+        
+        return true;
     }
 };
