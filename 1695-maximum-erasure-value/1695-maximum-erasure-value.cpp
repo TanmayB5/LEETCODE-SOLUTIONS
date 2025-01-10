@@ -18,6 +18,6 @@ public:
 
             res = max(res, sum);
         }
-        return sum;
+        return res;
     }
 };
