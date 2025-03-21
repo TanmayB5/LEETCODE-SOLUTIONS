@@ -20,23 +20,24 @@ public:
         }
 
         ListNode* second = slow->next;
-        ListNode* prev = slow->next = nullptr;
-        while (second != nullptr) {
-            ListNode* tmp = second->next;
+        ListNode* prev =slow->next =  nullptr;
+        while(second!=nullptr){
+            ListNode* temp = second->next;
             second->next = prev;
             prev = second;
-            second = tmp;
+            second = temp; 
         }
 
         ListNode* first = head;
         second = prev;
-        while (second != nullptr) {
-            ListNode* tmp1 = first->next;
-            ListNode* tmp2 = second->next;
+        while(second!=nullptr){
+            ListNode* temp1 = first->next;
+            ListNode* temp2 = second->next;
             first->next = second;
-            second->next = tmp1;
-            first = tmp1;
-            second = tmp2;
+            second->next = temp1;
+            first = temp1;
+            second = temp2;
         }
+        
     }
 };
