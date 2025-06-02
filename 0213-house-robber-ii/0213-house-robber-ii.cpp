@@ -5,7 +5,7 @@ public:
         int prev1 =0;
         int curr1=0;
         int next1=0;
-        if(n==0){return nums[0];}
+        if(n==1){return nums[0];}
         for(int i=0;i<n-1;i++){
             next1=max(curr1,prev1+nums[i]);
            prev1=curr1;
