@@ -12,19 +12,13 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        return dfs(root);
-    }
-
-private: 
-     int dfs(TreeNode* root) {
         if (root == nullptr) return 0;
 
-        int leftDepth = dfs(root->left);
-        int rightDepth = dfs(root->right);
+        // If one of the children is null, we must go through the non-null child
+        if (root->left == nullptr) return 1 + minDepth(root->right);
+        if (root->right == nullptr) return 1 + minDepth(root->left);
 
-         if (leftDepth == 0 || rightDepth == 0)
-            return max(leftDepth, rightDepth) + 1;
-
-        return min(leftDepth, rightDepth) + 1;
-     }
+        // Both children exist, return the min of both depths
+        return 1 + min(minDepth(root->left), minDepth(root->right));
+    }
 };
