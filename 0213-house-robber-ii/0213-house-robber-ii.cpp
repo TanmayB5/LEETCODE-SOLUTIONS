@@ -1,28 +1,35 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        int prev1 =0;
-        int curr1=0;
-        int next1=0;
-        if(n==1){return nums[0];}
-        for(int i=0;i<n-1;i++){
-            next1=max(curr1,prev1+nums[i]);
-           prev1=curr1;
-            curr1=next1;
+        int n = nums.size();
+       vector<int> dp(n,0);
+        if(n == 1){
+            return nums[0];
+        }
+        if(n == 2){
+            return max(nums[0],nums[1]);
+        }
+       //from 0 to n-2
+        dp[n-2] = nums[n-2];
+        dp[n-3] = max(nums[n-3],nums[n-2]);
+        if(n>3){
+        for(int i = n-4;i>=0;i--){
+            dp[i] = max(dp[i+1],dp[i+2]+nums[i]);
             
         }
-
-         int prev2 =0;
-        int curr2=0;
-        int next2=0;
-        for(int i=1;i<n;i++){
-            next2=max(curr2,prev2+nums[i]);
-            prev2=curr2;
-            curr2=next2;
+        }
+        int temp1 = dp[0];
+       // from 1 to n-2
+        dp[n-1] = nums[n-1];
+        dp[n-2] = max(nums[n-2],nums[n-1]);
+        if(n>3){
+        for(int i = n-3;i>0;i--){
+            dp[i] = max(dp[i+1],dp[i+2]+nums[i]);
             
         }
-        
-        return max(curr1,curr2);
+        }
+        int temp2 = dp[1];
+        int ans = max(temp1,temp2);
+        return ans;
     }
 };
