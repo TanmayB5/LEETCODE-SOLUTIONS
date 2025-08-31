@@ -1,16 +1,21 @@
 class Solution {
 public:
-    vector<int> countBits(int n) {
-    vector<int> dp(n+1);
-    int factor = 1;
 
-    for (int i = 1; i <= n; i++) {
-        if (2 * factor == i) {
-            factor = i;
+    int count(int i){
+        int cnt = 0;
+        while(i){
+            i = i&i-1;
+            cnt++;
         }
-        dp[i] = 1 + dp[i - factor];
+        return cnt;
     }
-    return dp;
-}
+    
+    vector<int> countBits(int n) {
+    vector<int> ans(n+1,0);
 
+    for(int i=0;i<=n;i++){
+      ans[i] = count(i);
+    }
+    return ans;
+    }
 };
