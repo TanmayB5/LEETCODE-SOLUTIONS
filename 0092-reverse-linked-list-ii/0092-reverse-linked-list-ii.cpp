@@ -1,40 +1,40 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        ListNode* curr = head;
-        ListNode* prev = nullptr;
-        ListNode* beforeleft = nullptr;  // Node before `left`
-        ListNode* leftnode = nullptr;    // First node of the reversed section
-        int index = 1;
+        if(head==nullptr || head->next == nullptr){return head;}
 
-        // Traverse to `left` position
-        while (curr && index < left) {
-            beforeleft = curr;
-            curr = curr->next;
-            index++;
+        ListNode *dummy = new ListNode(0);
+        dummy->next = head;
+        ListNode * prev = dummy;
+
+        for(int i=1;i<left;i++){
+            prev = prev->next;
         }
 
-        // Start reversing from `left` to `right`
-        leftnode = curr; // Store `left` node to reconnect later
-        while (curr && index <= right) {
-            ListNode* temp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = temp;
-            index++;
+        //reverse the list
+        ListNode* curr = prev->next;
+        ListNode* nxt = nullptr;
+        ListNode* prevNode = nullptr;
+
+        for (int i = 0; i < right - left + 1; i++) {
+            nxt = curr->next;
+            curr->next = prevNode;
+            prevNode = curr;
+            curr = nxt;
         }
 
-        // Connect the reversed part to the rest of the list
-        if (beforeleft) {
-            beforeleft->next = prev;  // Connect node before `left` to the new head of reversed part
-        } else {
-            head = prev;  // If `left` was 1, update `head`
-        }
-
-        if (leftnode) {
-            leftnode->next = curr; // Connect `leftnode` to the node after `right`
-        }
-
-        return head;
+        prev->next->next = curr;
+        prev->next = prevNode;
+       return dummy->next;
     }
 };
