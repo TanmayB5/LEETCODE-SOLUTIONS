@@ -1,27 +1,26 @@
 class Solution {
 public:
-    int countSubstrings(string s) {
-        int residx , reslen = 0;
-        int ans = 0;
 
-        for(int i=0;i<s.size();i++){
-            
-            //oddlen
-            int l=i,r=i;
-            while(l>=0 && r<s.size() && s[l]==s[r]){
-                ans++;
-                l--;
-                r++;
-            }
-
-            //evenlen
-             l=i,r=i+1;
-            while(l>=0 && r<s.size() && s[l]==s[r]){
-                ans++;
-                l--;
-                r++;
+    bool ispal(string s){
+        int a = s.size();
+        for(int i=0;i<a/2;i++){
+            if(s[i]!=s[a-i-1]){
+                return false;
             }
         }
-        return ans;
+        return true;
+    }
+
+    int countSubstrings(string s) {
+        int n = s.size();
+        int cnt = 0;
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
+                if(ispal(s.substr(i,j-i+1))){
+                cnt++;
+                }
+            }
+        }
+        return cnt;
     }
 };
