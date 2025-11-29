@@ -2,7 +2,7 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         int n = s.size();
-        int len = 0;
+        int len = 1;
         int st = 0;
         vector<vector<int>> dp(n, vector<int>(n, 0));
 
