@@ -11,25 +11,28 @@
  */
 class Solution {
 public:
+
     int preidx = 0;
     int inidx = 0;
 
-    TreeNode* dfs(vector<int>& preorder, vector<int>& inorder, int limit) {
-        if (preidx >= preorder.size()) {
+    TreeNode * dfs(vector<int>& preorder, vector<int>& inorder, int limit){
+        if(preidx>=preorder.size()){
             return nullptr;
         }
-        if (inorder[inidx] == limit) {
+
+        if(inorder[inidx] == limit){
             inidx++;
             return nullptr;
         }
 
-        TreeNode* root = new TreeNode(preorder[preidx++]);
-        root->left = dfs(preorder, inorder, root->val);
-        root->right = dfs(preorder, inorder, limit);
+        TreeNode * root = new TreeNode(preorder[preidx++]);
+        root->left = dfs(preorder,inorder,root->val);
+        root->right = dfs(preorder,inorder,limit);
         return root;
     }
 
+
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        return dfs(preorder, inorder, INT_MAX);
+       return  dfs(preorder, inorder, INT_MAX);
     }
 };
