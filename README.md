@@ -6,5 +6,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0057-insert-interval/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
