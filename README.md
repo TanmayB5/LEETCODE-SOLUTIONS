@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0057-insert-interval/) | Medium |
+| [0283-move-zeroes](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Sorting
@@ -27,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
