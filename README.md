@@ -42,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0086-partition-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
