@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0057-insert-interval/) | Medium |
 | [0283-move-zeroes](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
+| [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -60,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
