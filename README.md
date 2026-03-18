@@ -29,12 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0086-partition-list](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0086-partition-list/) | Medium |
 | [0283-move-zeroes](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
