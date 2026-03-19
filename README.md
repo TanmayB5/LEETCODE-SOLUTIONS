@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
@@ -57,10 +58,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
