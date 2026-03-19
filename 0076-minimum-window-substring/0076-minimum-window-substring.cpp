@@ -25,8 +25,8 @@ public:
             j++;
 
             while(count == 0){
-                if(len>j-i+1){
-                    len = j-i+1;
+                if(len>j-i){
+                    len = j-i;
                     start = i;
                 }
                 mp[s[i]]++;
