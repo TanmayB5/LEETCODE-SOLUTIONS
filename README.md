@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0053-maximum-subarray/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,11 +63,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
