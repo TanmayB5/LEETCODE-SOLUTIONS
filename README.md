@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Sorting
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -88,4 +90,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
