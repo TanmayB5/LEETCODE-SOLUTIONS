@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0076-minimum-window-substring/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0567-permutation-in-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
