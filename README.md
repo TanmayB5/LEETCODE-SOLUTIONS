@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0695-max-area-of-island](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Sorting
@@ -126,16 +127,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
