@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Sorting
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/TanmayB5/LEETCODE-SOLUTIONS/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
